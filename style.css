@@ -9,11 +9,11 @@ Version: 0.1
 
 #site-title span a {
 	display: block;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	text-indent: -90000px;
-	width: 352px;
-	height: 83px;
+	width: 195px;
+	height: 48px;
 	background-image: url(images/dflydev-header.png);
-	margin-left: -8px;
+	margin-left: 0px;
 }
 #site-description { display: none; }
