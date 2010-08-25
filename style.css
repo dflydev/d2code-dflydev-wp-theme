@@ -1,0 +1,19 @@
+/*
+Theme Name: d2code dflydev
+Theme URI: http://dflydev.com/
+Description: d2code dflydev WordPress Theme.
+Author: Dragonfly Development
+Template: d2code-core-wp-theme
+Version: 0.1
+*/
+
+#site-title span a {
+	display: block;
+	margin-bottom: 20px;
+	text-indent: -90000px;
+	width: 352px;
+	height: 83px;
+	background-image: url(images/dflydev-header.png);
+	margin-left: -8px;
+}
+#site-description { display: none; }
